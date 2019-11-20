@@ -1,0 +1,61 @@
+Design Rule Check Report
+------------------------
+
+Report File:        E:\Senior Project\Senior Project\Senior Project Schematics\Mark1 (PCB - Design Rule Check Report).txt
+Report Written:     Thursday, February 21, 2019
+Design Path:        E:\Senior Project\Senior Project\Senior Project Schematics\Mark1.pcb
+Design Title:       
+Created:            1/27/2019 8:02:55 PM
+Last Saved:         2/21/2019 2:02:59 AM
+Editing Time:       334 min
+Units:              inches (precision 3)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  Yes
+Min Track Width      Yes
+Min Annular Ring     Yes
+Copper Text In Board Yes
+Mirrored Text        Yes
+Routing Areas        Yes
+Drill Breakout       Yes
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.
